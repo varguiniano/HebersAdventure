@@ -1,3 +1,10 @@
-# Quintanilla (2) - Ruta 1 (5)
-2,N,14,5,S,20
-
+# Ruta 2 (7) - Ruta 1 (5)
+7,North,14,5,South,0
+# Quintanilla Riopico (2) - Ruta 1 (5)
+2,North,0,5,South,6
+# Ruta 2 (7) - Granja (6)
+7,East,21,6,West,0
+# Quintanilla Riopico (2) - Granja (6)
+2,South,0,6,North,0
+# Quintanilla Riopico (2) - Ruta 2 (7)
+2,West,0,7,East,0
