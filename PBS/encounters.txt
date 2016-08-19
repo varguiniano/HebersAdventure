@@ -1,5 +1,5 @@
 ######################
-002 # Lappet Town / Pueblo Empanada
+002 # QUINTANILLA
 25,10,10
 Land
 WEEDLE,1,3 #20
@@ -14,3 +14,20 @@ WURMPLE,1,3 #4
 WURMPLE,1,3 #4
 WURMPLE,1,3 #1
 NINCADA,3,5 #1
+
+######################
+005 # RUTA 1
+25,10,10
+Land
+WEEDLE,5,8 #20
+CATERPIE,5,8 #20
+BELLSPROUT,5,8 #10
+ODDISH,5,8 #10
+WURMPLE,5,8 #10
+BUDEW,5,8 #10
+HOPPIP,5,8 #5
+CHERUBI,5,8 #5
+EXEGGUTOR,3,5 #4
+FARFETCHD,3,5 #4
+IGGLYBUFF,2,4 #1
+EEVEE,2,4 #1
