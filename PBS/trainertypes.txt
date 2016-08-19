@@ -71,3 +71,6 @@
 69,ELITEFOUR_Agatha,Alto Mando,100,elite,,,Female,,
 70,ELITEFOUR_Lance,Alto Mando,100,elite,,,Male,,
 71,CHAMPION,Campeón,100,elite,,,Male,,
+72,PUEBLERINO,Pueblerino,30,,,,Male,,
+73,DELEGADA,Delegada,200,,,,Female,,
+74,NIÑORATA,Niño Rata,30,,,,Male,,
