@@ -12,7 +12,7 @@ WildBattleBGM=002-Battle02.mid
 # Quintanilla Riopico
 Bicycle=true
 MapPosition=0,13,12
-Outdoor=false
+Outdoor=true
 ShowArea=true
 [003]
 # Casa de \PN
@@ -33,7 +33,7 @@ ShowArea=true
 # Granja
 Bicycle=true
 MapPosition=0,13,11
-Outdoor=true
+Outdoor=false
 ShowArea=true
 [007]
 # Ruta 2
@@ -46,8 +46,13 @@ ShowArea=true
 # Casa de los Cámara
 MapPosition=0,13,12
 [009]
+# Bosque
+SnapEdges=false
+Bicycle=true
 MapPosition=0,14,10
+Outdoor=true
 HealingSpot=8,17,11
+ShowArea=true
 [010]
 BattleBack=IndoorB
 MapPosition=0,13,10
