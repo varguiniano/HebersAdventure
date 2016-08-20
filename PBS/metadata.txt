@@ -12,7 +12,7 @@ WildBattleBGM=002-Battle02.mid
 # Quintanilla Riopico
 Bicycle=true
 MapPosition=0,13,12
-Outdoor=true
+Outdoor=false
 ShowArea=true
 [003]
 # Casa de \PN
