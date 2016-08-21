@@ -11,7 +11,7 @@ WildBattleBGM=002-Battle02.mid
 [002]
 # Quintanilla Riopico
 Bicycle=true
-MapPosition=0,13,12
+MapPosition=0,27,6
 Outdoor=true
 ShowArea=true
 [003]
@@ -39,7 +39,7 @@ ShowArea=true
 # Ruta 2
 MapSize=2,11
 Bicycle=true
-MapPosition=0,13,10
+MapPosition=0,26,6
 Outdoor=true
 ShowArea=true
 [008]
@@ -54,13 +54,17 @@ Outdoor=true
 HealingSpot=8,17,11
 ShowArea=true
 [010]
+# Gruta1
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]
+# Gruta2
 MapPosition=0,14,10
 [012]
+# Piso 2
 MapPosition=0,14,10
 [013]
+# Ruta 2-Villafría
 MapPosition=0,14,10
 [014]
 MapPosition=0,13,10
