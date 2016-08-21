@@ -11,61 +11,63 @@ WildBattleBGM=002-Battle02.mid
 [002]
 # Quintanilla Riopico
 Bicycle=true
-MapPosition=0,27,6
+MapPosition=0,28,6
 Outdoor=true
 ShowArea=true
 [003]
 # Casa de \PN
 BattleBack=IndoorB
-MapPosition=0,13,12
+MapPosition=0,28,6
 HealingSpot=2,8,8
 [004]
 # Mesón Majuco
-MapPosition=0,13,12
+MapPosition=0,28,6
 ShowArea=false
 [005]
-# Ruta 1
+# Bosque
 Bicycle=true
-MapPosition=0,13,11
+MapPosition=0,27,6
 Outdoor=true
 ShowArea=true
 [006]
 # Granja
 Bicycle=true
-MapPosition=0,13,11
+MapPosition=0,28,6
 Outdoor=false
 ShowArea=true
 [007]
-# Ruta 2
+# Ruta 1
 MapSize=2,11
 Bicycle=true
-MapPosition=0,26,6
+MapPosition=0,27,6
 Outdoor=true
 ShowArea=true
 [008]
 # Casa de los Cámara
-MapPosition=0,13,12
+MapPosition=0,28,6
 [009]
 # Bosque
 SnapEdges=false
 Bicycle=true
-MapPosition=0,14,10
+MapPosition=0,27,6
 Outdoor=true
 HealingSpot=8,17,11
 ShowArea=true
 [010]
 # Gruta1
 BattleBack=IndoorB
-MapPosition=0,13,10
+MapPosition=0,27,6
 [011]
 # Gruta2
-MapPosition=0,14,10
+Bicycle=true
+MapPosition=0,27,6
 [012]
 # Piso 2
-MapPosition=0,14,10
+Bicycle=true
+MapPosition=0,27,6
 [013]
-# Ruta 2-Villafría
-MapPosition=0,14,10
+# Ruta 1-Villafría
+MapPosition=0,26,6
 [014]
 MapPosition=0,13,10
 [015]

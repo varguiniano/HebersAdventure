@@ -1,4 +1,5 @@
 ﻿[0]
 Filename=mapRegion0.png
-Name="Burgos"
-Point=27,6,"Quintanilla Riopico",,02,46,21,
+Name=Burgos
+Point=28,6,"Quintanilla Riopico",Granja,02,46,21,
+Point=27,6,"Ruta 1",Bosque,,,,
