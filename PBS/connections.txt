@@ -1,20 +1,18 @@
-#Ruta 1 (7) - TempConnection for pokenav locations
-#7,-15,0,14,21,0
-
-
-# Ruta 1 (7) - Bosque (5)
+﻿# Ruta 1 (7) - Bosque (5)
 7,North,54,5,South,0
 # Quintanilla Riopico (2) - Bosque (5)
 2,North,0,5,South,6
 # Bosque (9) - Bosque (5)
 9,East,0,5,West,0
-# Ruta 1 (7) - Granja (6)
+# Ruta 1 (7) - Campos (6)
 7,East,21,6,West,0
-# Quintanilla Riopico (2) - Granja (6)
+# Quintanilla Riopico (2) - Campos (6)
 2,South,0,6,North,0
 # Quintanilla Riopico (2) - Ruta 1 (7)
 2,West,0,7,East,0
 # Bosque (9) - Ruta 1 (7)
 9,South,0,7,North,0
+# Villafría (15) - Ruta 1 (7)
+15,East,70,7,West,0
 # Bosque (9) - Quintanilla Riopico (2)
 9,South,60,2,North,0
