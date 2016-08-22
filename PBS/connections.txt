@@ -1,5 +1,5 @@
 #Ruta 1 (7) - TempConnection for pokenav locations
-#7,-15,0,4,21,0
+#7,-15,0,14,21,0
 
 
 # Ruta 1 (7) - Bosque (5)

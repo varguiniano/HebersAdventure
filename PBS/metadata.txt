@@ -69,7 +69,9 @@ MapPosition=0,27,6
 # Ruta 1-Villafría
 MapPosition=0,26,6
 [014]
-MapPosition=0,13,10
+# Gruta
+Bicycle=true
+MapPosition=0,28,6
 [015]
 MapPosition=0,13,10
 [016]
