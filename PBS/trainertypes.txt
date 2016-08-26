@@ -76,3 +76,4 @@
 74,NIÑORATA,Niño Rata,30,,,,Male,,
 75,ESCRITOR,Escritor,250,,,,Male,,
 76,LEADER_Fran,Electronico,250,,,,Male,,
+77,PILOTO,Piloto,250,,,,Male,,
