@@ -127,3 +127,12 @@ BicycleAlways=false
 Bicycle=true
 MapPosition=0,26,7
 Outdoor=true
+[030]
+# Aeropuerto
+MapPosition=0,27,7
+[031]
+# Ruta 2
+Bicycle=true
+MapPosition=0,26,8
+Outdoor=true
+ShowArea=true

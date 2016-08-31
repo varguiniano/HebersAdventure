@@ -16,3 +16,5 @@
 15,East,70,7,West,0
 # Bosque (9) - Quintanilla Riopico (2)
 9,South,60,2,North,0
+# Ruta 2 (31) - Ruta 2 (29)
+31,North,0,29,South,0
