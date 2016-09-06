@@ -18,3 +18,5 @@
 9,South,60,2,North,0
 # Ruta 2 (31) - Ruta 2 (29)
 31,North,0,29,South,0
+# Ruta 2 (32) - Ruta 2 (31)
+32,North,0,31,South,0
