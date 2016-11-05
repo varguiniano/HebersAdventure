@@ -1,4 +1,4 @@
-# Ruta 1 (7) - Bosque (5)
+﻿# Ruta 1 (7) - Bosque (5)
 7,North,54,5,South,0
 # Quintanilla Riopico (2) - Bosque (5)
 2,North,0,5,South,6
@@ -20,3 +20,5 @@
 31,North,0,29,South,0
 # Ruta 2 (32) - Ruta 2 (31)
 32,North,0,31,South,0
+# Ruta 2 (32) - Ruta 2 (35)
+32,W,22,35,E,22
