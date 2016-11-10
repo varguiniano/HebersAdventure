@@ -75,7 +75,10 @@ MapPosition=0,28,6
 [015]
 # Villafría
 Weather=Snow,80
+Bicycle=true
 MapPosition=0,26,6
+Outdoor=true
+ShowArea=true
 [016]
 # Centro Pokémon
 MapPosition=0,26,6
@@ -152,3 +155,10 @@ DarkMap=true
 Bicycle=true
 MapPosition=0,26,8
 DarkMap=true
+[035]
+# Ruta 2
+SnapEdges=false
+Bicycle=true
+MapPosition=0,24,9
+Outdoor=true
+ShowArea=true

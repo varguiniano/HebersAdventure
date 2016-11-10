@@ -1,4 +1,4 @@
-﻿#########################
+#########################
 002 # Quintanilla Riopico
 25,10,10
 Land
@@ -311,7 +311,7 @@ ZUBAT,14,18
 ONIX,14,18
 NOSEPASS,14,18
 #########################
-034 # PASILLO OSCURO
+034 # PasilloOscuro
 25,10,10
 Cave
 ZUBAT,14,18
