@@ -523,3 +523,4 @@
 523,REVEALGLASS,Espejo Reflector,Espejos Reflectores,8,0,"Espejo misterioso que refleja la verdad y devuelve los Pokémon a su forma original.",5,0,6,
 524,OVALCHARM,Amuleto Oval,Amuletos Ovales,8,0,"Misterioso amuleto redondo que aumenta la posibilidad de encontrar Huevos en la Guardería Pokémon",0,0,6,
 525,SHINYCHARM,Amuleto Iris,Amuletos Iris,8,0,"Misterioso amuleto brillante que aumenta la probabilidad de encontrar Pokémon variocolores.",0,0,6,
+526,OCULUSRIFT,Oculus Rift, Oculus Rift,8,1,"Gafas de realidad virtual. Este modelo es el DK2, por lo que ya no vale una mierda.",0,0,6,

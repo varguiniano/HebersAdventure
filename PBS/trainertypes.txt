@@ -80,3 +80,4 @@
 78,CANI,Cani,43,,,,Male,,
 79,ROCOSO,Rocoso,51,,,,Male,,
 80,FUMADO,Fumao,1,,,,Male,,
+81,INFORMATICA,Informática,48,,,,Female,,
