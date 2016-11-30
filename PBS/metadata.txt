@@ -157,8 +157,16 @@ MapPosition=0,26,8
 DarkMap=true
 [035]
 # Ruta 2
+MapSize=5,"1,1,1,1,1"
 SnapEdges=false
 Bicycle=true
-MapPosition=0,24,9
+MapPosition=0,22,9
 Outdoor=true
+ShowArea=true
+[037]
+# Firestone
+Bicycle=true
+MapPosition=0,24,9
+Outdoor=false
+BicycleAlways=false
 ShowArea=true
