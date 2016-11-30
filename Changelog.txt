@@ -1,0 +1,25 @@
+Next
+	-Añadido el final de ruta 2.
+	-Añadido el poígono de Gamonal.
+	-Añadida la Firestone.
+	-Añadido el CEEI.
+	-Actualizado el mapa regional.
+	-La localización del jugador en el mapa regional es ahora mucho más precisa.
+
+Alpha-v0.1.240916
+	-Añadida la mitad de la Ruta 2.
+	-Modificados varios sprites de entrenadores.
+	-Solucionado bug que permitía modificar los pokemon viajeros.
+	-Solucionado bug que permitía atravesar paredes.
+
+Alpha-v0.1.060916
+	-Ahora se puede cambiar entre velocidad normal y turbo pulsando la tecla Alt (a petición de Cas).
+	-Suavizado de gráficos para lograr más fps (Hail the Master Race!).
+
+Alpha-v0.1.04092016
+	-Nerfeado el primer gimnasio y el Pasaje de Villafría.
+	-Eevee ahora evoluciona a Glaceon en el Pasaje de Villafría.
+	-Muchos bug fixes.
+
+Alpha-v0.1.250816
+	-First demo version.
