@@ -1,4 +1,5 @@
 #!/bin/bash
+#Line endings are now \n
 
 clear
 
