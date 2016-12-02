@@ -20,7 +20,7 @@
 18,HIKER,Montañero,32,,,,Male,,
 19,JUGGLER,Malabarista,32,,,,Male,,
 20,LADY,Damisela,160,,,,Female,72,
-21,PAINTER,Pintor,16,,,,Female,,
+21,PAINTER,Pelirroja,16,,,,Female,,
 22,POKEMANIAC,Poké Maniaco,64,,,,Male,,
 23,POKEMONBREEDER,Criador,48,,,,Female,,
 24,PROFESSOR,Profesor,100,,,,Male,,

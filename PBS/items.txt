@@ -201,7 +201,7 @@
 201,CHILLDRIVE,CrioROM,CrioROMs,1,1000,"Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo.",0,0,0,
 202,EVERSTONE,Piedra Eterna,Piedras Eternas,1,200,"El Pokémon que lleve esta piedra mágica no evolucionará.",0,0,0,
 203,DRAGONSCALE,Escamadragón,Escamadragones,1,2100,"Una gruesa y resistente escama que pueden llevar los Pokémon de tipo Dragón cuando son capturados.",0,0,0,
-204,UPGRADE,Mejora,Mejoras,1,2100,"Peculiar dispositivo fabricado en Silph S.A. que contiene todo tipo de datos.",0,0,0,
+204,UPGRADE,Mejora,Mejoras,1,2100,"\"Disco para actualizar a Windows 10.\" Buah, mejor no toco mucho esto.",0,0,0,
 205,DUBIOUSDISC,Disco Extraño,Discos Extraños,1,2100,"Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido.",0,0,0,
 206,PROTECTOR,Protector,Protectores,1,2100,"Dispositivo de protección muy pesado. Algunos Pokémon lo adoran.",0,0,0,
 207,ELECTIRIZER,Electrizador,Electrizadores,1,2100,"Este dispositivo contiene una gran cantidad de energía eléctrica. Algunos Pokémon lo adoran.",0,0,0,
