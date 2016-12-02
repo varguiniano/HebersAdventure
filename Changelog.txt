@@ -5,6 +5,7 @@ Next
 	-Añadido el CEEI.
 	-Actualizado el mapa regional.
 	-La localización del jugador en el mapa regional es ahora mucho más precisa.
+	-Varios bugs corregidos.
 
 Alpha-v0.1.240916
 	-Añadida la mitad de la Ruta 2.
