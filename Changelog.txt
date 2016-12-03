@@ -5,6 +5,7 @@ Next
 	-Añadido el CEEI.
 	-Actualizado el mapa regional.
 	-La localización del jugador en el mapa regional es ahora mucho más precisa.
+	-Los Pokemon que evolucionan por intercambio ahora tienen otra forma de evolucionar.
 	-Varios bugs corregidos.
 
 Alpha-v0.1.240916
