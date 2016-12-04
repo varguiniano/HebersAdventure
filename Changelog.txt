@@ -3,6 +3,7 @@ Next
 	-Añadido el poígono de Gamonal.
 	-Añadida la Firestone.
 	-Añadido el CEEI.
+	-Añadido combates dobles.
 	-Actualizado el mapa regional.
 	-La localización del jugador en el mapa regional es ahora mucho más precisa.
 	-Los Pokemon que evolucionan por intercambio ahora tienen otra forma de evolucionar.
