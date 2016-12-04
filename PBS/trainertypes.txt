@@ -82,3 +82,5 @@
 80,FUMADO,Fumao,1,,,,Male,,
 81,INFORMATICA,Informática,48,,,,Female,,
 82,ALEJOS,Informático,48,,,,Male,,
+83,POLICIA,Policía,40,,,,Male,,
+84,PELIRROJA,PELIRROJA,45,,,,Female,,
