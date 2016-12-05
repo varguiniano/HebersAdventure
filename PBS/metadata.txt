@@ -184,3 +184,24 @@ MapPosition=0,21,9
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+[040]
+# McDonalds
+Bicycle=false
+MapPosition=0,21,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[041]
+# Bricoleal
+Bicycle=false
+MapPosition=0,21,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[042]
+# Muebles Tuco
+Bicycle=false
+MapPosition=0,21,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
