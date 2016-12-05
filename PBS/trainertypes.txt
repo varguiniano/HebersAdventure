@@ -83,4 +83,6 @@
 81,INFORMATICA,Informática,48,,,,Female,,
 82,ALEJOS,Informático,48,,,,Male,,
 83,POLICIA,Policía,40,,,,Male,,
-84,PELIRROJA,PELIRROJA,45,,,,Female,,
+84,PELIRROJA,Pelirroja,45,,,,Female,,
+85,HIJODELTRUENO,Hijo del Trueno,250,,,,Male,,
+86,CHONI,Choni,45,,,,Female,,
