@@ -22,13 +22,21 @@
 35,West,0,39,East,0
 # Ruta 2 (31) - Polígono de Gamonal (39)
 31,South,0,39,North,310
+# Ruta 3 (43) - Polígono de Gamonal (39)
+43,South,0,39,North,20
 # Ruta 2 (35) - Ruta 2 (29)
 35,East,0,29,West,120
 # Ruta 2 (31) - Ruta 2 (29)
 31,North,0,29,South,0
+# Ruta 3 (43) - Ruta 2 (29)
+43,North,290,29,South,0
 # Ruta 2 (31) - Ruta 2 (35)
 31,West,60,35,East,0
 # Ruta 2 (32) - Ruta 2 (35)
 32,West,0,35,East,0
+# Ruta 3 (43) - Ruta 2 (35)
+43,East,60,35,West,0
 # Ruta 2 (32) - Ruta 2 (31)
 32,North,0,31,South,0
+# Ruta 3 (43) - Ruta 2 (32)
+43,South,290,32,North,0

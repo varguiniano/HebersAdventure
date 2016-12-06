@@ -98,7 +98,7 @@ SENTRET,6,7
 HAPPINY,1
 SLAKOTH,2,4
 #########################
-010 # Gruta1
+010 # Gruta
 25,10,10
 SuperRod
 DRATINI,10,12
@@ -107,7 +107,7 @@ DRATINI,10,12
 DRATINI,10,12
 DRATINI,10,12
 #########################
-011 # Gruta2
+011 # Gruta
 25,10,10
 Cave
 ZUBAT,6,8
@@ -129,7 +129,7 @@ LARVITAR,10,15
 LARVITAR,10,15
 LARVITAR,10,15
 #########################
-012 # Piso 2
+012 # Gruta
 25,10,10
 Cave
 ZUBAT,6,8
@@ -167,7 +167,7 @@ SNEASEL,14,17
 SWINUB,14,17
 DELIBIRD,14,17
 #########################
-024 # Piso -1
+024 # Pasaje de Villafría
 25,10,10
 Cave
 SNORUNT,14,17
@@ -183,7 +183,7 @@ SNEASEL,14,17
 SWINUB,14,17
 DELIBIRD,14,17
 #########################
-025 # Piso 1
+025 # Pasaje de Villafría
 25,10,10
 Cave
 SNORUNT,14,17
@@ -199,7 +199,7 @@ SNEASEL,14,17
 SWINUB,14,17
 DELIBIRD,14,17
 #########################
-026 # Piso 0.5
+026 # Pasaje de Villafría
 25,10,10
 Cave
 SNORUNT,14,17
@@ -215,7 +215,7 @@ SNEASEL,14,17
 SWINUB,14,17
 DELIBIRD,14,17
 #########################
-027 # Piso-2
+027 # Pasaje de Villafría
 25,10,10
 Cave
 SNORUNT,14,17
@@ -231,7 +231,7 @@ SNEASEL,14,17
 SWINUB,14,17
 DELIBIRD,14,17
 #########################
-028 # Piso 2
+028 # Pasaje de Villafría
 25,10,10
 Cave
 SNORUNT,14,17

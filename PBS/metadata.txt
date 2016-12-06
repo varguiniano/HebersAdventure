@@ -54,15 +54,15 @@ Outdoor=true
 HealingSpot=8,17,11
 ShowArea=true
 [010]
-# Gruta1
+# Gruta
 BattleBack=IndoorB
 MapPosition=0,27,6
 [011]
-# Gruta2
+# Gruta
 Bicycle=true
 MapPosition=0,27,6
 [012]
-# Piso 2
+# Gruta
 Bicycle=true
 MapPosition=0,27,6
 [013]
@@ -92,36 +92,36 @@ MapPosition=0,26,6
 # Casa de Sonia
 MapPosition=0,26,6
 [020]
-# Casa1
+# Casa
 MapPosition=0,26,6
 [021]
-# Casa2
+# Casa
 MapPosition=0,26,6
 [022]
-# Casa3
+# Casa
 MapPosition=0,26,6
 [023]
 # Pasaje de Villafría
 Bicycle=true
 MapPosition=0,26,7
 [024]
-# Piso -1
+# Pasaje de Villafría
 Bicycle=true
 MapPosition=0,26,7
 [025]
-# Piso 1
+# Pasaje de Villafría
 Bicycle=true
 MapPosition=0,26,7
 [026]
-# Piso 0.5
+# Pasaje de Villafría
 Bicycle=true
 MapPosition=0,26,7
 [027]
-# Piso-2
+# Pasaje de Villafría
 Bicycle=true
 MapPosition=0,26,7
 [028]
-# Piso 2
+# Pasaje de Villafría
 Bicycle=true
 MapPosition=0,26,7
 BicycleAlways=false
@@ -205,3 +205,10 @@ MapPosition=0,21,9
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+[043]
+# Ruta 3
+Bicycle=true
+MapPosition=0,21,8
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
