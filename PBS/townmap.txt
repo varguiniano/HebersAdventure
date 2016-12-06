@@ -1,9 +1,9 @@
 ﻿[0]
 Filename=mapRegion0.png
 Name=Burgos
-Point=28,6,"Quintanilla Riopico",Campos,02,46,21,
+Point=28,6,"Quintanilla Riopico",Campos,02,8,8,
 Point=27,6,"Ruta 1",Bosque,,,,
-Point=26,6,Villafría,Pallafría,02,46,21,
+Point=26,6,Villafría,Pallafría,15,27,20,
 Point=27,7,,Aeropuerto,,,,
 Point=26,9,"Ruta 2",,,,,
 Point=21,9,"Ruta 2","Polígono de Gamonal",,,,
@@ -101,3 +101,4 @@ Point=15,12,"Ruta 12",,,,,
 Point=16,12,"Ruta 12",,,,,
 Point=18,12,"Ruta 13",,,,,
 Point=17,12,"Plaza de Toros","Liga Pokémon",,,,
+
