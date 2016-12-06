@@ -1,11 +1,12 @@
 Next
-	-Añadido el final de ruta 2.
-	-Añadido el poígono de Gamonal.
+	-Añadido el final de la Ruta 2.
+	-Añadido el Polígono de Gamonal.
 	-Añadida la Firestone.
 	-Añadido el CEEI.
-	-Añadido combates dobles.
+	-Implmentados combates dobles.
 	-Actualizado el mapa regional.
 	-La localización del jugador en el mapa regional es ahora mucho más precisa.
+	-Implementado sistema de vuelo.
 	-Los Pokemon que evolucionan por intercambio ahora tienen otra forma de evolucionar.
 	-Varios bugs corregidos.
 
