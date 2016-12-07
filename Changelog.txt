@@ -1,14 +1,17 @@
 Next
 	-Añadido el final de la Ruta 2.
+	-Añadida la Ruta 3.
 	-Añadido el Polígono de Gamonal.
 	-Añadida la Firestone.
 	-Añadido el CEEI.
 	-Implementados combates dobles.
+	-Implementado sistema de vuelo.
 	-Actualizado el mapa regional.
 	-La localización del jugador en el mapa regional es ahora mucho más precisa.
-	-Implementado sistema de vuelo.
 	-Los Pokemon que evolucionan por intercambio ahora tienen otra forma de evolucionar.
-	-Varios bugs corregidos.
+	-Corregido bug que impedía utilizar el movimiento "Teletransporte" fuera de combate.
+	-Corregidos varios entrenadores que hacían crashear el juego.
+ 	-Corregidos varios bugs menores.
 
 Alpha-v0.1.240916
 	-Añadida la mitad de la Ruta 2.
