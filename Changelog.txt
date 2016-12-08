@@ -4,6 +4,7 @@ Next
 	-Añadido el Polígono de Gamonal.
 	-Añadida la Firestone.
 	-Añadido el CEEI.
+	-Añadidos carteles en una gran cantidad de localizaciones.
 	-Implementados combates dobles.
 	-Implementado sistema de vuelo.
 	-Actualizado el mapa regional.
