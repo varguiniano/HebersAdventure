@@ -1,3 +1,10 @@
+Next
+	-
+
+Alpha-v0.2.081216.1
+	-Eliminado bug que hacía que un entrenador crasheara el juego.
+	-Varios menores bugs solucionados.
+
 Alpha-v0.2.081216
 	-Añadida versión portable para aquellos que smartscreen les da problemas con el instalador (sí, hay gente que usa smartscreen).
 	-Añadido el final de la Ruta 2.
