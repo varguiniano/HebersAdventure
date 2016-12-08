@@ -1,4 +1,5 @@
-Next
+Alpha-v0.2.081216
+	-Añadida versión portable para aquellos que smartscreen les da problemas con el instalador (sí, hay gente que usa smartscreen).
 	-Añadido el final de la Ruta 2.
 	-Añadida la Ruta 3.
 	-Añadido el Polígono de Gamonal.
