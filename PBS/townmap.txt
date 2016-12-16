@@ -46,7 +46,7 @@ Point=7,18,Bulevar,,,,,
 Point=6,18,Bulevar,,,,,
 Point=5,18,Bulevar,,,,,
 Point=21,8,"Ruta 3",,,,,
-Point=21,7,"San Cristobal",,,,,
+Point=21,7,"San Cristobal",,44,19,24,
 Point=21,6,"Ruta 4","Desierto de Villimar",,,,
 Point=21,5,"Ruta 4",Guardería,,,,
 Point=20,5,"Ruta 4","Desierto de Villimar",,,,
@@ -102,5 +102,6 @@ Point=16,12,"Ruta 12",,,,,
 Point=18,12,"Ruta 13",,,,,
 Point=17,12,"Plaza de Toros","Liga Pokémon",,,,
 Point=21,4,"Estación de Trenes",,,,,
+
 
 

@@ -1,5 +1,6 @@
 Next
-	-
+	-Añadido San Cristóbal
+	-Eliminados los regalos misteriosos, ya haremos nuestras propias cosas misteriosas.
 
 Alpha-v0.2.081216.1
 	-Eliminado bug que hacía que un entrenador crasheara el juego.
