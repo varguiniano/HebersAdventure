@@ -18,6 +18,12 @@
 9,South,60,2,North,0
 # Villafría (15) - Bosque (9)
 15,East,30,9,West,0
+# Ruta 2 (35) - San Cristobal (44)
+35,West,0,44,East,100
+# Ruta 2 (31) - San Cristobal (44)
+31,North,0,44,South,290
+# Ruta 3 (43) - San Cristobal (44)
+43,North,0,44,South,0
 # Ruta 2 (35) - Polígono de Gamonal (39)
 35,West,0,39,East,0
 # Ruta 2 (31) - Polígono de Gamonal (39)

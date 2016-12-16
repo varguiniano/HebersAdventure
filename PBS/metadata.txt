@@ -219,3 +219,11 @@ MapPosition=0,21,8
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+[044]
+# San Cristobal
+Bicycle=true
+MapPosition=0,21,7
+Outdoor=true
+BicycleAlways=false
+HealingSpot=44,19,24
+ShowArea=true
