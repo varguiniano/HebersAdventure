@@ -14,21 +14,33 @@
 9,South,0,7,North,0
 # Bosque (9) - Quintanilla Riopico (2)
 9,South,60,2,North,0
+# Ruta 4 (55) - San Cristóbal (44)
+55,South,0,44,North,0
+# Ruta 2 (35) - San Cristóbal (44)
+35,West,0,44,East,100
+# Ruta 2 (31) - San Cristóbal (44)
+31,North,0,44,South,290
 # Ruta 3 (43) - San Cristóbal (44)
-43,North,20,44,South,20
+43,North,0,44,South,0
 # Ruta 2 (35) - Polígono de Gamonal (39)
 35,West,0,39,East,0
+# Ruta 2 (31) - Polígono de Gamonal (39)
+31,South,0,39,North,310
 # Ruta 3 (43) - Polígono de Gamonal (39)
 43,South,0,39,North,20
+# Ruta 2 (35) - Ruta 2 (29)
+35,East,0,29,West,120
 # Ruta 2 (31) - Ruta 2 (29)
 31,North,0,29,South,0
+# Ruta 3 (43) - Ruta 2 (29)
+43,North,290,29,South,0
 # Ruta 2 (31) - Ruta 2 (35)
 31,West,60,35,East,0
-# Ruta 2 (32) - Ruta 2 (35)
-32,West,0,35,East,0
 # Ruta 3 (43) - Ruta 2 (35)
 43,East,60,35,West,0
+# Ruta 2 (32) - Ruta 2 (35)
+32,West,0,35,East,0
 # Ruta 2 (32) - Ruta 2 (31)
 32,North,0,31,South,0
-#San Cristobal (44) - Ruta 4 (55)
-44,N,20,55,S,20
+# Ruta 2 (32) - Ruta 3 (43)
+32,North,0,43,South,290
