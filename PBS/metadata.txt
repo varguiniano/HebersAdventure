@@ -220,10 +220,75 @@ Outdoor=true
 BicycleAlways=false
 ShowArea=true
 [044]
-# San Cristobal
+# San Cristóbal
 Bicycle=true
 MapPosition=0,21,7
 Outdoor=true
 BicycleAlways=false
 HealingSpot=44,19,24
 ShowArea=true
+[045]
+# Centro Pokémon
+Bicycle=false
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[046]
+# Tienda
+Bicycle=false
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[047]
+# Casa
+Bicycle=false
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[048]
+# Peña Madridista
+Bicycle=false
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[049]
+# Casa
+Bicycle=false
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[050]
+# Casa
+Bicycle=false
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[051]
+# Caverna del Metal
+Bicycle=true
+TrainerBattleBGM=33557_Dragonforce--Through-Fire-and-Flames.mid
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=33557_Dragonforce--Through-Fire-and-Flames.mid
+ShowArea=true
+[052]
+# Bar
+Bicycle=false
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[053]
+# Gimnasio
+Bicycle=false
+MapPosition=0,21,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
