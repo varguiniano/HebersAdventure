@@ -86,3 +86,4 @@
 84,PELIRROJA,Pelirroja,45,,,,Female,,
 85,HIJODELTRUENO,Hijo del Trueno,250,,,,Male,,
 86,CHONI,Choni,45,,,,Female,,
+87,FRIKI,Friki,37,,,,Male,,

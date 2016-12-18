@@ -308,3 +308,33 @@ MapPosition=0,21,6
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+[056]
+# Villimar
+Weather=Sun,60
+Bicycle=true
+MapPosition=0,21,5
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[058]
+# Ruinas
+Bicycle=true
+MapPosition=0,21,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[059]
+# Pasaje de Villimar
+Bicycle=true
+MapPosition=0,21,5
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[060]
+# Estación de Trenes
+Bicycle=true
+MapPosition=0,21,4
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
