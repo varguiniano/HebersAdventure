@@ -301,8 +301,8 @@ BicycleAlways=false
 ShowArea=false
 [055]
 # Ruta 4
-BattleBack=Mountain
-Weather=Sandstorm,90
+BattleBack=
+Weather=Sandstorm,100
 Bicycle=true
 MapPosition=0,21,6
 Outdoor=true
