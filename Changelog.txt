@@ -1,5 +1,10 @@
 Next
 	-Añadido San Cristóbal.
+	-Añadida la Ruta 4.
+	-Añadido Villimar.
+	-Añadido el Gran Templo de Gaben.
+	-Añadida la Estación de Trenes.
+	-Añadida la Guardería.
 	-Actualizado mapa regional.
 	-Eliminados los regalos misteriosos, ya haremos nuestras propias cosas misteriosas.
 	-Arreglado bug que hacía que las cuerdas huida no funcionaran correctamente algunas veces.
