@@ -2,12 +2,17 @@ Next
 	-Añadido San Cristóbal.
 	-Añadida la Ruta 4.
 	-Añadido Villimar.
+	-Añadido el G3.
 	-Añadido el Gran Templo de Gaben.
 	-Añadida la Estación de Trenes.
 	-Añadida la Guardería.
 	-Actualizado mapa regional.
+	-Renombrados algunos mapas.
+	-Redibujados los sprites de algunos entrenadores.
+	-El Ditto que se puede conseguir en el Polígono es ahora mucho más fuerte, aquellos que ya consiguieron el anterior pueden volver a intercambiar este.
 	-Eliminados los regalos misteriosos, ya haremos nuestras propias cosas misteriosas.
 	-Arreglado bug que hacía que las cuerdas huida no funcionaran correctamente algunas veces.
+	-Solucionado bug que impedía ubicar correctamente al jugador en algunas posiciones del mapa regional.
 
 Alpha-v0.2.081216.1
 	-Eliminado bug que hacía que un entrenador crasheara el juego.

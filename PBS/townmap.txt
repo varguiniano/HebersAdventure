@@ -52,7 +52,7 @@ Point=21,5,"Ruta 4",Guardería,,,,
 Point=20,5,"Ruta 4","Desierto de Villimar",,,,
 Point=5,17,"Santa Clara",Avalon,,,,
 Point=19,5,"Ruta 4","Desierto de Villimar",,,,
-Point=18,5,G-3,Hospital,,,,
+Point=18,5,G-3,Hospital,62,21,11,
 Point=17,5,"Ruta 5",,,,,
 Point=16,5,,"Cuartel de los Testigos de Gaben",,,,
 Point=15,5,"Ruta 6",,,,,
@@ -102,6 +102,7 @@ Point=16,12,"Ruta 12",,,,,
 Point=18,12,"Ruta 13",,,,,
 Point=17,12,"Plaza de Toros","Liga Pokémon",,,,
 Point=21,4,"Estación de Trenes",,,,,
+
 
 
 
