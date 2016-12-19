@@ -13,6 +13,7 @@ Next
 	-Eliminados los regalos misteriosos, ya haremos nuestras propias cosas misteriosas.
 	-Arreglado bug que hacía que las cuerdas huida no funcionaran correctamente algunas veces.
 	-Solucionado bug que impedía ubicar correctamente al jugador en algunas posiciones del mapa regional.
+	-Solucionado bug que hacía que algunos npcs fueran invisibles.
 
 Alpha-v0.2.081216.1
 	-Eliminado bug que hacía que un entrenador crasheara el juego.
