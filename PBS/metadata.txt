@@ -292,6 +292,7 @@ ShowArea=false
 [053]
 # Gimnasio
 Bicycle=false
+TrainerBattleBGM=33557_Dragonforce--Through-Fire-and-Flames.mid
 MapPosition=0,21,7
 Outdoor=false
 BicycleAlways=false

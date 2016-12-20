@@ -378,7 +378,7 @@
 378,TM91,MT91,MT91s,4,3000,"El usuario concentra toda la luz del cuerpo y la libera. Puede bajar la Defensa Especial del objetivo.",3,0,0,FLASHCANNON
 379,TM92,MT92,MT92s,4,5500,"Se crea un espacio extraño en el que los Pokémon lentos se mueven primero durante cinco turnos.",3,0,0,TRICKROOM
 380,TM93,MT93,MT93s,4,3000,"Carga eléctrica muy potente que también hiere ligeramente a quien la usa.",3,0,0,WILDCHARGE
-381,HM08,MO08,MO08s,4,0,"Ataca con puñetazos que pueden romper rocas. Puede bajar la Defensa del objetivo.",4,0,0,ROCKSMASH
+381,TM94,MT94,MT94s,4,0,"Ataca con puñetazos que pueden romper rocas. Puede bajar la Defensa del objetivo.",4,0,0,ROCKSMASH
 382,TM95,MT95,MT95s,4,3000,"Ataca lanzando un chillido insoportable que baja el Ataque Especial de los objetivos.",3,0,0,SNARL
 383,HM01,MO01,MO01s,4,0,"Corta con garras, guadañas, etc. También sirve para cortar árboles finos.",4,0,0,CUT
 384,HM02,MO02,MO02s,4,0,"1° turno: vuela.                                   2° turno: ataca. Fuera de combate, permite ir a sitios conocidos.",4,0,0,FLY
