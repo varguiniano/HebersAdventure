@@ -10,6 +10,7 @@ Next
 	-Actualizado mapa regional.
 	-Renombrados algunos mapas.
 	-Redibujados los sprites de algunos entrenadores.
+	-Modificados los horarios a los que anochece y amanece.
 	-El Ditto que se puede conseguir en el Polígono es ahora mucho más fuerte, aquellos que ya consiguieron el anterior pueden volver a intercambiar este.
 	-Eliminados los regalos misteriosos, ya haremos nuestras propias cosas misteriosas.
 	-Solucionado bug que hacía que las cuerdas huida no funcionaran correctamente algunas veces.
