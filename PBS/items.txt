@@ -526,3 +526,4 @@
 526,OCULUSRIFT,Oculus Rift, Oculus Rift,8,1,"Gafas de realidad virtual. Este modelo es el DK2, por lo que ya no vale una mierda.",0,0,6,
 527,STEAMSTONE,Steam Link,Steam Links,1,2100,"Aparato que se conecta a Steam y hace creer a los Pokemon que tienes amigos con los que intercambiarlos.",1,0,0,
 528,ANDROMEDA,Andrómeda, Andrómedas,8,0,"Una de las joyas de la literatura moderna. Pocos libros están a su altura.",0,0,6,
+529,MOXOPAL,Ópalo Mox, Ópalos Mox,8,0,"Artefacto legendario | Metalurgia - T: Agrega un maná de cualquier color a tu reserva de maná.",0,0,6,

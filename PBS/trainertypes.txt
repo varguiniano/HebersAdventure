@@ -13,7 +13,7 @@
 11,BURGLAR,Ladrón,88,,,,Male,32,
 12,CHANELLER,Exorcista,32,,,,Female,,
 13,CUEBALL,Calvo,24,,,,Male,,
-14,ENGINEER,Mecánico,48,,,,Male,,
+14,ENGINEER,Ingeniero,48,,,,Male,,
 15,FISHERMAN,Pescador,32,,,,Male,,
 16,GAMBLER,Apostador,72,,,,Male,32,
 17,GENTLEMAN,Caballero,72,,,,Male,,
@@ -90,3 +90,4 @@
 88,DRAGONTAMER,Domadragones,80,,,,Male,,
 89,BICICLISTA,Biciclista,45,,,,Male,,
 90,POKEMONTRAINER,Entrenadora,60,,,,Female,,
+91,MONSIEUR,Monsieur,150,gymleader,,,Male,,
