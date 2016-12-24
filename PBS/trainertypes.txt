@@ -88,3 +88,5 @@
 86,CHONI,Choni,45,,,,Female,,
 87,FRIKI,Friki,37,,,,Male,,
 88,DRAGONTAMER,Domadragones,80,,,,Male,,
+89,BICICLISTA,Biciclista,45,,,,Male,,
+90,POKEMONTRAINER,Entrenadora,60,,,,Female,,
