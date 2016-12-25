@@ -91,3 +91,4 @@
 89,BICICLISTA,Biciclista,45,,,,Male,,
 90,POKEMONTRAINER,Entrenadora,60,,,,Female,,
 91,MONSIEUR,Monsieur,150,gymleader,,,Male,,
+92,JEFEDELA,El jefe de la,150,gymleader,,,Male,,
