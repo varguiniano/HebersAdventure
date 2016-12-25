@@ -438,3 +438,66 @@ MapPosition=0,18,5
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+[074]
+# Casa del Inspector de Motes
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[075]
+# Tienda
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[076]
+# Casa
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[077]
+# Casa
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[078]
+# Gimnasio
+Bicycle=false
+MapPosition=0,18,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[079]
+# Ruinas
+Bicycle=true
+MapPosition=0,21,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[080]
+# Ruinas
+Bicycle=true
+MapPosition=0,21,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[081]
+# Ruinas
+Bicycle=true
+MapPosition=0,21,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[082]
+# Ruinas
+Bicycle=true
+MapPosition=0,21,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
