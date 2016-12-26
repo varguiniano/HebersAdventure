@@ -1,4 +1,4 @@
-Next
+Alpha-v0.3.261216
 	-Añadido San Cristóbal.
 	-Añadida la Ruta 4.
 	-Añadido Villimar.
@@ -6,17 +6,17 @@ Next
 	-Añadida la dungeon del Gran Templo de Gaben.
 	-Añadida la Estación de Trenes.
 	-Añadida la Guardería.
-	-Añadido Inspector de Motes.
+	-Añadido el Inspector de Motes.
 	-Actualizado mapa regional.
 	-Renombrados algunos mapas.
 	-Redibujados los sprites de algunos entrenadores.
 	-Modificados los horarios a los que anochece y amanece.
-	-El Ditto que se puede conseguir en el Polígono es ahora mucho más fuerte, aquellos que ya consiguieron el anterior pueden volver a intercambiar este.
+	-El Ditto que se puede conseguir en el Polígono es ahora mucho más fuerte, aquellos que ya consiguieron el anterior pueden volver a conseguir este.
 	-Eliminados los regalos misteriosos, ya haremos nuestras propias cosas misteriosas.
 	-Solucionado bug que hacía que las cuerdas huida no funcionaran correctamente algunas veces.
 	-Solucionado bug que impedía ubicar correctamente al jugador en algunas posiciones del mapa regional.
 	-Solucionado bug que hacía que algunos npcs fueran invisibles.
-	-Solucionados variso bugs menores (no pedo).
+	-Solucionados varios bugs menores (no pedo).
 
 Alpha-v0.2.081216.1
 	-Eliminado bug que hacía que un entrenador crasheara el juego.
