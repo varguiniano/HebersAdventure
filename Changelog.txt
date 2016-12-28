@@ -1,4 +1,5 @@
 Next
+	- Implementado servidor de versiones.
 	- Modificadas varias conversaciones de entrenadores.
 	- Mejorado el sistema de puzzles.
 	- La velocidad del juego se modifica ahora en el menú de opciones y se guarda con la partida.
