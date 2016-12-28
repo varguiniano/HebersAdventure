@@ -3,7 +3,7 @@
 
 clear
 
-echo "Remember to compile on RGP Maker and push to GitHub first!"
+echo "Remember to compile on RGP Maker, push to GitHub and update the version server first!"
 echo "Press enter to continue..."
 read
 
