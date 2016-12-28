@@ -1,4 +1,4 @@
-Next
+Alpha-v0.3.1.281216
 	- Implementado servidor de versiones.
 	- Modificadas varias conversaciones de entrenadores.
 	- Mejorado el sistema de puzzles.
