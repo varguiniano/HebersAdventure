@@ -1,3 +1,8 @@
+Next
+	- Modificadas varias conversaciones de entrenadores.
+	- Mejorado el sistema de puzzles.
+	- La velocidad del juego se modifica ahora en el menú de opciones y se guarda con la partida.
+
 Alpha-v0.3.261216
 	-Añadido San Cristóbal.
 	-Añadida la Ruta 4.
