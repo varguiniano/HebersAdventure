@@ -48,3 +48,5 @@
 32,North,0,31,South,0
 # Ruta 2 (32) - Ruta 3 (43)
 32,North,0,43,South,290
+# G3 (62) - Ruta 5 (83)
+62,W,20,83,E,20
