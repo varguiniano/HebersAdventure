@@ -92,3 +92,6 @@
 90,POKEMONTRAINER,Entrenadora,60,,,,Female,,
 91,DOCTOR_b,Doctor,150,gymleader,,,Male,,
 92,JEFEDELA,El jefe de la,150,gymleader,,,Male,,
+93,VAQUERO,Vaquero,30,,,,Male,,
+94,CURRANTE,Currante,30,,,,Male,,
+95,REPELENTE,Repelente,35,,,,Male,,
