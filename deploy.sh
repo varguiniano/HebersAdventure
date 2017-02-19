@@ -1,6 +1,7 @@
 #!/bin/bash
 #Line endings are now \n
 
+
 clear
 
 echo "Remember to compile on RGP Maker, push to GitHub and update the version server first!"
