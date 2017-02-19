@@ -1,5 +1,6 @@
 Next
 	- Añadida Ruta 5
+	- Solucionado bug que hacía que la ´velocidad del juego actual no apareciera en las partidas nuevas. (#111)
 
 Alpha-v0.3.2.190217
 	- Añadida licencia del MIT. (#108)
