@@ -16,6 +16,9 @@ echo "Copying files..."
 mkdir HebersAdventure
 echo
 
+echo "Copying license..."
+cp LICENSE HebersAdventure/LICENSE
+
 echo "Copying exe..."
 cp Game.exe HebersAdventure/game.exe
 
