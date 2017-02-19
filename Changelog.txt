@@ -1,3 +1,6 @@
+Next
+	- Añadida Ruta 5
+
 Alpha-v0.3.2.190217
 	- Añadida licencia del MIT. (#108)
 	- Arreglado bug que crasheaba el juego a los nuevos jugadores cuando elegían una opción diferente a la de velocidad del juego. (#109)
