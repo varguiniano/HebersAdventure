@@ -1,8 +1,8 @@
 Alpha-v0.3.2.190217
-	- Añadida licencia del MIT.
-	- Arreglado bug que crasheaba el juego a los nuevos jugadores cuando elegían una opción diferente a la de velocidad del juego.
-	- Arreglado bug que hacía que si los nuevos jugadores no modificaban la velocidad del juego antes de comenzar una partida, ésta se bajara a 0-1 fps.
-	- Arreglados varios bugs menores.
+	- Añadida licencia del MIT. (#108)
+	- Arreglado bug que crasheaba el juego a los nuevos jugadores cuando elegían una opción diferente a la de velocidad del juego. (#109)
+	- Arreglado bug que crasheaba el juego si los nuevos jugadores no modificaban la velocidad del juego antes de comenzar una partida. (#109)
+	- Arreglado bug que hacía que la intro del juego se ejecutara siempre a 0-1 fps. (#110)
 
 Alpha-v0.3.1.281216
 	- Implementado servidor de versiones.
