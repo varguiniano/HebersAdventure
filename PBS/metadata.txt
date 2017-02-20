@@ -501,3 +501,10 @@ MapPosition=0,21,5
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+[083]
+# Ruta 5
+Bicycle=true
+MapPosition=0,17,5
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
