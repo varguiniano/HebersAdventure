@@ -50,3 +50,5 @@
 32,North,0,43,South,290
 # G3 (62) - Ruta 5 (83)
 62,West,0,83,East,0
+#Ruta 5 (83) - Cuartel (84)
+83,W,25,84,E,25
