@@ -515,3 +515,10 @@ MapPosition=0,16,5
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+[085]
+# Cobertizo
+Bicycle=true
+MapPosition=0,16,5
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
