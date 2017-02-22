@@ -508,3 +508,10 @@ MapPosition=0,17,5
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+[084]
+# Cuartel General de los Testigos de Gaben
+Bicycle=true
+MapPosition=0,16,5
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
