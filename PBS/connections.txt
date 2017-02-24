@@ -48,7 +48,13 @@
 32,North,0,31,South,0
 # Ruta 2 (32) - Ruta 3 (43)
 32,North,0,43,South,290
+# Ruta 7 (89) - Ruta 5 (83)
+89,North,40,83,South,0
 # G3 (62) - Ruta 5 (83)
 62,West,0,83,East,0
 # Cuartel General (84) - Ruta 5 (83)
 84,East,0,83,West,0
+# G3 (62) - Ruta 7 (89)
+62,South,0,89,North,80
+# Cuartel General (84) - Ruta 7 (89)
+84,South,0,89,North,0
