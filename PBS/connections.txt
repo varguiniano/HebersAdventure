@@ -50,5 +50,5 @@
 32,North,0,43,South,290
 # G3 (62) - Ruta 5 (83)
 62,West,0,83,East,0
-# Cuartel General de los Testigos de Gaben (84) - Ruta 5 (83)
+# Cuartel General (84) - Ruta 5 (83)
 84,East,0,83,West,0
