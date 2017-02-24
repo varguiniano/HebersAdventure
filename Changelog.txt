@@ -1,7 +1,10 @@
 Next
-	- Añadida Ruta 5.
+	- Añadida la Ruta 5.
+	- Añadida la Ruta 7.
+	- Añadido el Cuartel de los Testigos de Gaben.
 	- Añadido el sprite de Sonia en las conversaciones. (#117)
 	- Traducidos algunos mensajes al español. (#113)
+	- Los pokemon del jugador y de su compañero ya no recuperan la salud al ganar las batallas dobles con compañero. (#118)
 	- Solucionado bug que hacía que la velocidad del juego actual no apareciera en las partidas nuevas. (#111)
 
 Alpha-v0.3.2.190217
