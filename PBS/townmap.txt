@@ -102,8 +102,3 @@ Point=16,12,"Ruta 12",,,,,
 Point=18,12,"Ruta 13",,,,,
 Point=17,12,"Plaza de Toros","Liga Pokémon",,,,
 Point=21,4,"Estación de Trenes",,,,,
-
-
-
-
-
