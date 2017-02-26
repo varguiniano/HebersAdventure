@@ -50,13 +50,19 @@
 32,North,0,43,South,290
 # Ruta 7 (89) - Ruta 5 (83)
 89,North,40,83,South,0
-# G3 (62) - Ruta 5 (83)
-62,West,0,83,East,0
 # Cuartel General (84) - Ruta 5 (83)
 84,East,0,83,West,0
-# G3 (62) - Ruta 7 (89)
-62,South,0,89,North,80
+# G3 (62) - Ruta 5 (83)
+62,West,0,83,East,0
+# Politécnica (90) - Ruta 5 (83)
+90,North,80,83,South,0
 # Cuartel General (84) - Ruta 7 (89)
 84,South,0,89,North,0
-# EPS (90) - Ruta 7 (89)
-90,E,20,89,W,20
+# G3 (62) - Ruta 7 (89)
+62,South,0,89,North,80
+# Politécnica (90) - Ruta 7 (89)
+90,East,0,89,West,0
+# Politécnica (90) - Cuartel General (84)
+90,North,40,84,South,0
+# Politécnica (90) - G3 (62)
+90,North,120,62,South,0

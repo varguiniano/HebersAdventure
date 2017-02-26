@@ -550,3 +550,45 @@ MapPosition=0,16,6
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+[090]
+# Politécnica
+Bicycle=true
+MapPosition=0,16,7
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[091]
+# Politécnica
+Bicycle=false
+MapPosition=0,16,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[092]
+# Politécnica
+Bicycle=false
+MapPosition=0,16,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[093]
+# Politécnica
+Bicycle=false
+MapPosition=0,16,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[094]
+# Politécnica
+Bicycle=false
+MapPosition=0,16,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[095]
+# Politécnica
+Bicycle=false
+MapPosition=0,16,7
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
