@@ -58,3 +58,5 @@
 62,South,0,89,North,80
 # Cuartel General (84) - Ruta 7 (89)
 84,South,0,89,North,0
+# EPS (90) - Ruta 7 (89)
+90,E,20,89,W,20
