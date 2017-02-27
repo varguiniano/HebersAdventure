@@ -4,7 +4,10 @@ Next
 	- Añadido el Cuartel de los Testigos de Gaben.
 	- Añadida la Escuela Politécnica Superior.
 	- Añadido el sprite de Sonia en las conversaciones. (#117)
-	- Traducidos algunos mensajes al español. (#113)
+	- Rehechas todas las interfaces de los menús para que sean similares a las de Pokemon BW2. (#130)
+	- Implementado control de ratón en los menús. (#130)
+	- Traducida una enorme cantidad de mensajes al español. (#113, #130)
+	- Eliminado el Pokenav. (#131)
 	- Los pokemon del jugador y de su compañero ya no recuperan la salud al ganar las batallas dobles con compañero. (#118)
 	- Solucionado bug que hacía que la velocidad del juego actual no apareciera en las partidas nuevas. (#111)
 	- Solucionados varios bugs menores.
