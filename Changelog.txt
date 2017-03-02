@@ -6,6 +6,7 @@ Next
 	- Añadido el sprite de Sonia en las conversaciones. (#117)
 	- Rehechas todas las interfaces de los menús para que sean similares a las de Pokemon BW2. (#130)
 	- Implementado control de ratón en los menús. (#130)
+	- Cambiada la tecla de objetos clave asignados del 'F5' a la 'Y'.
 	- Traducida una enorme cantidad de mensajes al español. (#113, #130)
 	- Eliminado el Pokenav. (#131)
 	- Los pokemon del jugador y de su compañero ya no recuperan la salud al ganar las batallas dobles con compañero. (#118)
