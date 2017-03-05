@@ -3775,7 +3775,7 @@ Pokedex=Su configuración genética le permite mutar y adaptarse enseguida a cua
 BattlerPlayerY=12
 BattlerEnemyY=14
 BattlerAltitude=0
-Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,50,GLACEON,Location,23,GLACEON,Location,24,GLACEON,Location,25,GLACEON,Location,26,GLACEON,Location,27,GLACEON,Location,28,ESPEON,HappinessDay,,UMBREON,HappinessNight,
+Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,1,GLACEON,Location,23,GLACEON,Location,24,GLACEON,Location,25,GLACEON,Location,26,GLACEON,Location,27,GLACEON,Location,28,ESPEON,HappinessDay,,UMBREON,HappinessNight,
 [134]
 Name=Vaporeon
 InternalName=VAPOREON

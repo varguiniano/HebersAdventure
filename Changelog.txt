@@ -13,6 +13,7 @@ Next
 	- Los pokemon del jugador y de su compañero ya no recuperan la salud al ganar las batallas dobles con compañero. (#118)
 	- Solucionado bug que hacía que la velocidad del juego actual no apareciera en las partidas nuevas. (#111)
 	- Solucionado bug que hacía que Teletransporte solo funcionara en San Cristobal y Quintanilla. (#143)
+	- Solucionado bug que hacía que Eevee evolucionara a Leafeon de manera aleatoria. (#139)
 	- Solucionados varios bugs menores. (Demasiados para poner los números de issue)
 
 Alpha-v0.3.2.190217
