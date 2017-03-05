@@ -7,6 +7,7 @@ Next
 	- Rehechas todas las interfaces de los menús para que sean similares a las de Pokemon BW2. (#130)
 	- Implementado control de ratón en los menús. (#130)
 	- Cambiada la tecla de objetos clave asignados del 'F5' a la 'Y'.
+	- Sustituido el mapa de la Pokenav por el objeto Mapa, este se puede encontrar en casa de Héber y en casa de Varga. (#131)
 	- Traducida una enorme cantidad de mensajes al español. (#113, #130)
 	- Eliminado el Pokenav. (#131)
 	- Los pokemon del jugador y de su compañero ya no recuperan la salud al ganar las batallas dobles con compañero. (#118)
