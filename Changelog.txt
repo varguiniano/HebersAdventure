@@ -9,6 +9,7 @@ Next
 	- Cambiada la tecla de objetos clave asignados del 'F5' a la 'Y'.
 	- Sustituido el mapa de la Pokenav por el objeto Mapa, este se puede encontrar en casa de Héber y en casa de Varga. (#131)
 	- Traducida una enorme cantidad de mensajes al español. (#113, #130)
+	- Reescrito por completo el sistema para cambiar la velocidad del juego. (#122)
 	- Eliminado el Pokenav. (#131)
 	- Los pokemon del jugador y de su compañero ya no recuperan la salud al ganar las batallas dobles con compañero. (#118)
 	- Solucionado bug que hacía que la velocidad del juego actual no apareciera en las partidas nuevas. (#111)
