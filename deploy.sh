@@ -52,10 +52,14 @@ cp -r Standard HebersAdventure/Standard
 
 echo
 echo "All files copied."
+echo "Creating zip"
 echo
 
+7z a -tzip HebersAdventure.zip HebersAdventure
+
+echo "Zip created!"
 echo "Cleaning up..."
-#rm -r HebersAdventure
+rm -r HebersAdventure
 
 echo
 echo "All done!"
