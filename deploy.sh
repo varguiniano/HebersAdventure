@@ -12,11 +12,11 @@ echo
 echo "Deleting old release folders..."
 if [ -d "HebersAdventure" ]; then rm -Rf HebersAdventure; fi
 
-echo "Ready for new release"
-echo "Enter version:"
-read version
+#echo "Ready for new release"
+#echo "Enter version:"
+#read version
 
-echo "Preparing release version: $version"
+#echo "Preparing release version: $version"
 
 echo
 echo "Copying files..."
@@ -24,7 +24,7 @@ mkdir HebersAdventure
 echo
 
 echo "Copying license..."
-cp LICENSE HebersAdventure/LICENSE
+cp LICENSE.txt HebersAdventure/LICENSE.txt
 
 echo "Copying exe..."
 cp Game.exe HebersAdventure/game.exe
@@ -58,18 +58,18 @@ cp -r Standard HebersAdventure/Standard
 
 echo
 echo "All files copied."
-echo "Creating zip"
+#echo "Creating zip"
 echo
 
-7z a -tzip HebersAdventure-$version.zip HebersAdventure/*
+#7z a -tzip HebersAdventure-$version.zip HebersAdventure/*
 
-echo "Zip created!"
-echo "Cleaning up..."
-rm -r HebersAdventure
+#echo "Zip created!"
+#echo "Cleaning up..."
+#rm -r HebersAdventure
 
 echo
 echo "All done!"
-echo "Ready to create installer, you'll have to do that manually for now."
+echo "Ready to create NSIS installer."
 echo "Press enter to close..."
 read
 echo
