@@ -12,6 +12,12 @@ echo
 echo "Deleting old release folders..."
 if [ -d "HebersAdventure" ]; then rm -Rf HebersAdventure; fi
 
+echo "Ready for new release"
+echo "Enter version:"
+read version
+
+echo "Preparing release version: $version"
+
 echo
 echo "Copying files..."
 mkdir HebersAdventure
@@ -55,7 +61,7 @@ echo "All files copied."
 echo "Creating zip"
 echo
 
-7z a -tzip HebersAdventure.zip HebersAdventure
+7z a -tzip HebersAdventure-$version.zip HebersAdventure/*
 
 echo "Zip created!"
 echo "Cleaning up..."
