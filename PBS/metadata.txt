@@ -596,9 +596,48 @@ BicycleAlways=false
 ShowArea=false
 [096]
 # Ruta 8
-MapSize=4,0001001001001000
+MapSize=1,1
 Bicycle=true
-MapPosition=0,12,8
+MapPosition=0,14,9
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+[097]
+# Casa de Carmen
+Bicycle=false
+MapPosition=0,15,8
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[098]
+# Ruta 8
+Bicycle=true
+MapPosition=0,14,9
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[099]
+# Ruta 8
+Bicycle=true
+MapPosition=0,14,9
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[100]
+# Ruta 8
+Bicycle=true
+MapPosition=0,14,9
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[101]
+# Ruta 8
+Bicycle=true
+MapPosition=0,14,9
+DarkMap=true
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
