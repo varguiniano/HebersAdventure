@@ -1,4 +1,5 @@
 Next
+	- Implementado el sistema de instalación Nullsoft. (#148)
 	- Añadida la Ruta 5.
 	- Añadida la Ruta 7.
 	- Añadido el Cuartel de los Testigos de Gaben.
