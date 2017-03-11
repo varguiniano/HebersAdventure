@@ -8,6 +8,7 @@ Next
 	- Añadido el Quita-Movimientos.
 	- Añadido el sprite de Sonia en las conversaciones. (#117)
 	- Mejorado y ampliado el sistema de comprobación de actualizaciones.
+	- Modificado el mapa regional.
 	- Rehechas todas las interfaces de los menús para que sean similares a las de Pokemon BW2. (#130)
 	- Implementado control de ratón en los menús. (#130)
 	- Cambiada la tecla de objetos clave asignados del 'F5' a la 'Y'.
