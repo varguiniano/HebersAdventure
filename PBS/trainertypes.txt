@@ -98,3 +98,6 @@
 96,MAIQ,Witcher,40,,,,Male,,
 97,GORDO,Gordaco,30,,,,Male,,
 98,LOLO,Líder,50,,,,Male,,
+99,HIJODELTRUENO2,Hijo del Trueno,250,gymleader,,,Male,,
+100,PILOTO2,Piloto,250,,,,Male,,
+101,DELEGADA2,Delegada,200,,,,Female,,
