@@ -188,7 +188,7 @@
 188,METALPOWDER,Polvo Metálico,Polvos Metálicos,1,10,"Debe llevarlo Ditto. Es un polvo muy fino, pero a la vez resistente, que aumentará su Defensa.",0,0,0,
 189,QUICKPOWDER,Polvo Veloz,Polvos Veloces,1,10,"Este objeto incrementa en un 100% la Velocidad de Ditto en batalla. Este objeto deja de ser efectivo una vez Ditto ha usado Transform. o Impostor.",0,0,0,
 190,THICKCLUB,Hueso Grueso,Huesos Gruesos,1,500,"Un extraño tipo de hueso que potencia el Ataque. Suelen llevarlo Cubone o Marowak.",0,0,0,
-191,STICK,Palo,Palos,1,200,"Es un puerro muy largo que suele llevar Farfetch′d. Aumenta la probabilidad de que logre un golpe crítico.",0,0,0,
+191,STICK,Puerro,Puerros,1,200,"Es un puerro muy largo que suele llevar Farfetch'd. Aumenta la probabilidad de que logre un golpe crítico.",0,0,0,
 192,SOULDEW,Rocío Bondad,Rocíos Bondad,1,200,"Un orbe fantástico que deben llevar Latios o Latias. Sube el At. Esp. y la Def. Esp.",0,0,0,
 193,DEEPSEATOOTH,Diente Marino,Dientes Marinos,1,200,"Tiene el brillo afilado de la plata y debe llevarlo Clamperl. Sube el At. Esp.",0,0,0,
 194,DEEPSEASCALE,Escama Marina,Escamas Marinas,1,200,"Tiene un débil brillo rosado y debe llevarla Clamperl. Sube la Def. Esp.",0,0,0,
