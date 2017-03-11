@@ -641,3 +641,18 @@ DarkMap=true
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+[102]
+# Plaza España
+Bicycle=true
+MapPosition=0,11,12
+Outdoor=true
+BicycleAlways=false
+HealingSpot=102,38,21
+ShowArea=true
+[103]
+# Centro Pokémon
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
