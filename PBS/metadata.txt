@@ -656,3 +656,17 @@ MapPosition=0,11,12
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+[104]
+# Casa del Quita-Movimientos
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[105]
+# Casa
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
