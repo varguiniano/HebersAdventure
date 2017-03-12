@@ -5,8 +5,10 @@ Next
 	- Añadida la Ruta 8 aka Reyes Católicos.
 	- Añadido el Cuartel de los Testigos de Gaben.
 	- Añadida la Escuela Politécnica Superior.
+	- Añadida Plaza España.
 	- Añadido el Quita-Movimientos.
 	- Añadida la tienda de Bicis.
+	- Añadido el laboratorio de fósiles.
 	- Añadido el sprite de Sonia en las conversaciones. (#117)
 	- Mejorado y ampliado el sistema de comprobación de actualizaciones.
 	- Modificado el mapa regional.
