@@ -62,11 +62,17 @@
 84,South,0,89,North,0
 # Politécnica (90) - Ruta 7 (89)
 90,East,0,89,West,0
+# Ruta 6 (113) - Ruta 7 (89)
+113,East,60,89,West,0
 # Politécnica (90) - G3 (62)
 90,North,120,62,South,0
 # Politécnica (90) - Cuartel General (84)
 90,North,40,84,South,0
+# Ruta 6 (113) - Cuartel General (84)
+113,East,0,84,West,0
 # Ruta 8 (96) - Politécnica (90)
 96,East,0,90,West,22
+# Ruta 6 (113) - Politécnica (90)
+113,South,80,90,North,0
 # Plaza España (102) - Ruta 8 (96)
 102,East,0,96,West,66

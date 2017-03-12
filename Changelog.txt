@@ -1,6 +1,7 @@
 Next
 	- Implementado el sistema de instalación Nullsoft. (#148)
 	- Añadida la Ruta 5.
+	- Añadida la Ruta 6.
 	- Añadida la Ruta 7.
 	- Añadida la Ruta 8 aka Reyes Católicos.
 	- Añadido el Cuartel de los Testigos de Gaben.
