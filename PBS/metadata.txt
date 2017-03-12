@@ -670,3 +670,52 @@ MapPosition=0,11,12
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
+[106]
+# Casa
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[107]
+# Plaza España- Calle San Juan
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[108]
+# Casa
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[109]
+# Tienda de bicis
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[110]
+# Laboratorio del MEH
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[111]
+# Club de fans de Rodrigo Varga
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[112]
+# Casa
+Bicycle=false
+MapPosition=0,11,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
