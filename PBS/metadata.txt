@@ -526,21 +526,21 @@ BicycleAlways=false
 ShowArea=false
 [086]
 # Mansión Tote
-Bicycle=true
+Bicycle=false
 MapPosition=0,16,5
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
 [087]
 # Mansión Tote
-Bicycle=true
+Bicycle=false
 MapPosition=0,16,5
 Outdoor=false
 BicycleAlways=false
 ShowArea=false
 [088]
 # Zulote
-Bicycle=true
+Bicycle=false
 MapPosition=0,16,5
 Outdoor=false
 BicycleAlways=false
