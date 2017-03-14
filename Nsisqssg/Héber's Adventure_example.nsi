@@ -45,6 +45,7 @@ InstallDir "$PROGRAMFILES\Héber's Adventure"
 ######################################################################
 
 !include "MUI.nsh"
+#changed
 !include FontName.nsh
 !include FontReg.nsh
 !include WinMessages.nsh
@@ -84,6 +85,7 @@ RequestExecutionLevel admin
 
 !insertmacro MUI_UNPAGE_FINISH
 
+#changed
 !insertmacro MUI_LANGUAGE "Spanish"
 
 !insertmacro MUI_RESERVEFILE_LANGDLL
@@ -8316,6 +8318,7 @@ File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnems
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnfl.ttf"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnrs.ttf"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnrsi.ttf"
+#changed
 StrCpy $FONT_DIR $FONTS
 !insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmndp.ttf"
 DetailPrint "Instalando fuentes..."

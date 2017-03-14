@@ -27,7 +27,8 @@ echo "Copying license..."
 cp LICENSE.txt HebersAdventure/LICENSE.txt
 
 echo "Copying exe..."
-cp Game.exe HebersAdventure/game.exe
+cp Game.exe HebersAdventure/Game.exe
+cp Game.ico HebersAdventure/Game.ico
 
 echo "Copying dlls..."
 cp gif.dll HebersAdventure/gif.dll
