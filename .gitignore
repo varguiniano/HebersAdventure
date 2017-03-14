@@ -49,5 +49,6 @@ Temporary Items
 # Deployment files
 HebersAdventure
 HebersAdventure.exe
+installer.exe
 *.zip
 *.log
