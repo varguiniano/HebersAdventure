@@ -100,10 +100,6 @@ Section -MainProgram
 ${INSTALL_TYPE}
 SetOverwrite ifnewer
 SetOutPath "$INSTDIR"
-StrCpy $FONT_DIR $FONTS
-!insertmacro InstallTTFFont "pkmndp.ttf"
-DetailPrint "Instalando fuentes..."
-SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\game.exe"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Game.ini"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\gif.dll"
@@ -8320,6 +8316,31 @@ File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnems
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnfl.ttf"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnrs.ttf"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnrsi.ttf"
+StrCpy $FONT_DIR $FONTS
+!insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmndp.ttf"
+DetailPrint "Instalando fuentes..."
+SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
+!insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmndpb.ttf"
+DetailPrint "Instalando fuente..."
+SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
+!insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnem.ttf"
+DetailPrint "Instalando fuente..."
+SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
+!insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnemn.ttf"
+DetailPrint "Instalando fuente..."
+SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
+!insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnems.ttf"
+DetailPrint "Instalando fuente..."
+SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
+!insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnfl.ttf"
+DetailPrint "Instalando fuente..."
+SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
+!insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnrs.ttf"
+DetailPrint "Instalando fuente..."
+SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
+!insertmacro InstallTTFFont "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Fonts\pkmnrsi.ttf"
+DetailPrint "Instalando fuente..."
+SendMessage ${HWND_BROADCAST} ${WM_FONTCHANGE} 0 0 /TIMEOUT=5000
 SetOutPath "$INSTDIR\Data"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Data\Actors.rxdata"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Data\Animations.rxdata"
