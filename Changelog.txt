@@ -1,5 +1,4 @@
-Next
-	- Implementado el sistema de instalación Nullsoft. (#148)
+Alpha-v0.4.140317
 	- Añadida la Ruta 5.
 	- Añadida la Ruta 6.
 	- Añadida la Ruta 7.
@@ -11,6 +10,9 @@ Next
 	- Añadida la tienda de Bicis.
 	- Añadido el laboratorio de fósiles.
 	- Añadido el sprite de Sonia en las conversaciones. (#117)
+	- Implementado el sistema de instalación Nullsoft. (#148)
+	- Modificado el icono del juego. (#163)
+	- Las fuentes ahora se instalan con el juego en caso de ser necesario. (#162)
 	- Mejorado y ampliado el sistema de comprobación de actualizaciones.
 	- Modificado el mapa regional.
 	- Rehechas todas las interfaces de los menús para que sean similares a las de Pokemon BW2. (#130)
