@@ -25,3 +25,7 @@ Pokemon de las 5 primeras generaciones. En la versión actual se pueden consegui
 ### El juego ha crasheado y he perdido todo lo que había hecho desde la última vez que guardé partida.
 
 El juego está en alpha, no es perfecto y es lo que hay. Guarda partida frecuentemente y si salta un error, acuérdate de hacer un pantallazo o copiar el log y [subirlo.](https://github.com/varguiniano/HebersAdventure/issues/new)
+
+### ¿Puedo participar en el desarrollo? ¿Necesito conocimientos? ¿Hay sueldo?
+
+Sí, puedes participar. No, no se necesitan conocimientos, yo te enseñaré lo necesario. No, esto es por amor al arte. Si tienes ganas de aprender y un mínimo de compromiso contáctame en [Telegram](http://t.me/varguiniano) o [Twitter](https://twitter.com/rodrigo_varga).
