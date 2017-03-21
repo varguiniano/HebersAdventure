@@ -727,3 +727,18 @@ MapPosition=0,11,5
 Outdoor=true
 BicycleAlways=false
 ShowArea=true
+[114]
+# Wroclaw
+Bicycle=true
+MapPosition=1,23,10
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+[115]
+# Karola Lipinskiego
+Bicycle=true
+MapPosition=1,23,10
+Outdoor=true
+BicycleAlways=false
+HealingSpot=115,20,9
+ShowArea=true
