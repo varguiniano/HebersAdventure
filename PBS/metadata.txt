@@ -742,3 +742,31 @@ Outdoor=true
 BicycleAlways=false
 HealingSpot=115,20,9
 ShowArea=true
+[116]
+# La Cueva
+Bicycle=false
+MapPosition=1,23,10
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[117]
+# La Cueva
+Bicycle=false
+MapPosition=1,23,10
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[118]
+# La Cueva
+Bicycle=false
+MapPosition=1,23,10
+Outdoor=false
+BicycleAlways=false
+ShowArea=false
+[119]
+# Llanas
+Bicycle=false
+MapPosition=0,10,12
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
