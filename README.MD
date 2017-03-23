@@ -20,7 +20,7 @@ Búscate [aquí](https://github.com/varguiniano/HebersAdventure/wiki/Personajes)
 
 ### ¿Qué Pokemon hay?
 
-Pokemon de las 5 primeras generaciones. En la versión actual se pueden conseguir más de 260 diferentes. [Más info.](https://github.com/varguiniano/HebersAdventure/wiki/Pokemon)
+Pokemon de las 5 primeras generaciones. En la versión actual se pueden conseguir más de 360 diferentes. [Más info.](https://github.com/varguiniano/HebersAdventure/wiki/Pokemon)
 
 ### El juego ha crasheado y he perdido todo lo que había hecho desde la última vez que guardé partida.
 
