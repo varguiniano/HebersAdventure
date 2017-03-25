@@ -530,4 +530,6 @@
 530,SPICORPSE,Ella la Araña, Cadaver de Ella la Araña,8,0,"Ahora no es más que un cadaver, pero me pregunto quién fue capaz de derrotar a esta poderosa criatura.",0,0,6,
 531,DOGHAIR,Pelo de Laura, Pelo de Laura,8,0,"Ahora me dedico a arrancarle pelos a los perros. Porque puedo.",0,0,6,
 532,MONTES,Monte, Pelo de Laura,8,0,"Un yogur Monte. Es considerado una de las mayores delicias de mundo.",0,0,6,
-531,XBOXCONT,Mando de XBOX, Pelo de Laura,8,0,"Un mando de XBOX ONE.",0,0,6,
+533,XBOXCONT,Mando de Xbox, Pelo de Laura,8,0,"Un mando de XBOX ONE.",0,0,6,
+534,SHIRT,Camiseta vieja, Pelo de Laura,8,0,"Una camiseta del Guoan de Pekín. ¿Pero este equipo existe?",0,0,6,
+535,TIMBARK,Timbark, Pelo de Laura,8,0,"Una caja del manjar de los dioses.",0,0,6,

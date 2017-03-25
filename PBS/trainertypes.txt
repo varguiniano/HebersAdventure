@@ -101,3 +101,6 @@
 99,HIJODELTRUENO2,Hijo del Trueno,250,gymleader,,,Male,,
 100,PILOTO2,Piloto,250,,,,Male,,
 101,DELEGADA2,Delegada,200,,,,Female,,
+102,JACEK,Polaco,10,,,,Male,,
+103,MARIOLA,Polaca,10,,,,Female,,
+104,FELIXPARTNER,Palo,10,,,,Male,,
