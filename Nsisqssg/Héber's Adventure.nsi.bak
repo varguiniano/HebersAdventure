@@ -7,12 +7,12 @@
 !define APP_NAME "Héber's Adventure"
 !define COMP_NAME "Varguiniano"
 !define WEB_SITE "https://github.com/varguiniano/HebersAdventure/releases"
-!define VERSION "00.00.04.00"
+!define VERSION "00.00.04.14"
 !define COPYRIGHT "Rodrigo Varga  © 2017"
 !define DESCRIPTION "The Master Race update."
 !define LICENSE_TXT "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\LICENSE.txt"
-!define INSTALLER_NAME "C:\Users\Varguiniano\Desktop\HebersAdventure\Nsisqssg\installer.exe"
-!define MAIN_APP_EXE "game.exe"
+!define INSTALLER_NAME "C:\Users\Varguiniano\Desktop\HebersAdventure\Nsisqssg\HebersAdventure-Alpha-v0.4.140317.exe"
+!define MAIN_APP_EXE "Game.exe"
 !define INSTALL_TYPE "SetShellVarContext all"
 !define REG_ROOT "HKLM"
 !define REG_APP_PATH "Software\Microsoft\Windows\CurrentVersion\App Paths\${MAIN_APP_EXE}"
@@ -100,7 +100,8 @@ Section -MainProgram
 ${INSTALL_TYPE}
 SetOverwrite ifnewer
 SetOutPath "$INSTDIR"
-File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\game.exe"
+File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Game.exe"
+File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Game.ico"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\Game.ini"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\gif.dll"
 File "C:\Users\Varguiniano\Desktop\HebersAdventure\HebersAdventure\LICENSE.txt"
@@ -9545,7 +9546,8 @@ SectionEnd
 
 Section Uninstall
 ${INSTALL_TYPE}
-Delete "$INSTDIR\game.exe"
+Delete "$INSTDIR\Game.exe"
+Delete "$INSTDIR\Game.ico"
 Delete "$INSTDIR\Game.ini"
 Delete "$INSTDIR\gif.dll"
 Delete "$INSTDIR\LICENSE.txt"
